@@ -1,5 +1,7 @@
-.title {
-  color:pink;
+..title {
+  color:rgb(245, 6, 245);
+  opacity:1;
+  text-align: center;
 }
 p {
   color:pink
