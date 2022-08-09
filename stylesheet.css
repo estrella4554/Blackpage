@@ -17,6 +17,7 @@ display: block;
 width:500px;
 margin:auto;
 }
-.caracteristics{
+.caracteristics li{
   text-aling:center;
+  font-color:rgb(245,6,245);
 }
