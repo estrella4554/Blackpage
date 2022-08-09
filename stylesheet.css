@@ -16,6 +16,7 @@ p {
 display: block;
 width:500px;
 margin:auto;
+  background-color:#fff;
 }
 .main{
   background-color:rgb(255,0,0);
@@ -33,3 +34,7 @@ margin:auto;
   text-align:center;
   list-style:none;
 }
+.favorites-songs{
+  list-style:none;
+}
+
