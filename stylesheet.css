@@ -17,9 +17,11 @@ display: block;
 width:500px;
 margin:auto;
 }
+
 .caracteristics li{
   text-align:center;
   color:rgb(245,6,245);
+  list-style:none;
 }
 .caracteristics  h2 {
   text-align:center;
