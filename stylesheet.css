@@ -17,6 +17,9 @@ display: block;
 width:500px;
 margin:auto;
 }
+.main{
+  background-color:rgb(255,0,0);
+}
 
 .caracteristics li{
   text-align:center;
